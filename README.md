@@ -1,6 +1,6 @@
 # SVAR Causality
 
-All analysis are made using Python 3 and Jupyter notebook. 
+All analysis are made using Python 3.9 and Jupyter notebook. 
 
 ### Folder Data
 
